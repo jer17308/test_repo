@@ -1,0 +1,4 @@
+Author: James Richards <james.richards1@gmail.com>
+Date:   Sun Aug 21 11:24:28 2016 -0400
+
+    first commit
